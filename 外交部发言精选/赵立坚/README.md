@@ -7,9 +7,9 @@
 
 ## 赵立坚用叙利亚照片指美国在阿富汗“一炸一路”，遭原作者打脸 [原文链接](https://chinadigitaltimes.net/chinese/676267.html)
 
-![202201260249_what_america_brings_to_afghan_children](./202201260249_what_america_brings_to_afghan_children.png)
+![](美国给阿富汗儿童带来了什么.png)
 
-[![202201260249_what_america_brings_to_afghan_children_response](./202201260249_what_america_brings_to_afghan_children_response.png)](https://twitter.com/AliHajSuleiman/status/1486751480954732548)
+[![](美国给阿富汗儿童带来了什么的回复.png)](https://twitter.com/AliHajSuleiman/status/1486751480954732548)
 
 ## 赵立坚指美国删除乌克兰生物实验室信息  遭BBC记者拆穿 [消息来源](https://www.worldjournal.com/wj/story/121468/6167324?zh-cn)
 
@@ -41,4 +41,4 @@ BBC记者接着说：“我看到的是，网站上文档都还在。你可以�
 ## “一个人要转头多少次，还假装视而不见；一个人要长几双耳朵，才能听见民众哭泣；还要牺牲多少生命，他才知道太多人已经死去？” --赵立坚 
 ![](一个人.jpg)
 
-[此次上海疫情期间记录在案的次生伤害](https://github.com/The-Run-Philosophy-Organization/run/tree/main/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E7%9B%B8%E5%85%B3/%E8%AE%B0%E5%BD%95%E5%9C%A8%E6%A1%88%E7%9A%84%E6%AC%A1%E7%94%9F%E4%BC%A4%E5%AE%B3)
+[此次上海疫情期间记录在案的次生伤害](https://github.com/The-Run-Philosophy-Organization/run/tree/main/新冠疫情相关/记录在案的次生伤害)
