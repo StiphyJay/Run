@@ -3,9 +3,8 @@
 [![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/issues)
 [![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run?style=flat-square)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
+[![Check](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml)
 
->Actions Status [![Links](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml)
-[![Linter](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml)
 >
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
 > 本Repo的核心宗旨，即是在于解决并回答[为什么润](哲学概念/为何而润.md)，[润去哪里](润学方法论/各国选择/)，[怎么润](润学实例/)三大问题；并成为新中国人的核心宗教，核心信念。
@@ -61,11 +60,13 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-6-5**）：
+近期新增（**Week of 2022-6-27**）：
 
-- [衙学第二篇：各级别广义公务员人数、职级及待遇](https://www.youtube.com/watch?v=6WCgyaX3G1A)
-- [润学感悟：中国的性少数群体现状](润学感悟/中国的性少数群体现状.md)
-- [一个失去理智的司机有多危险](润学感悟/一个失去理智的司机有多危险.md)
+润日方法论合集：
+
+- [高中学历润日本](润学实例/计算机/高中学历润日本.md)
+- [润日指南](润学方法论/各国选择/亚洲和大洋洲/日本/润日指南.md)
+- [程序员润日的方法](润学方法论/各国选择/亚洲和大洋洲/日本/程序员润日.md)
 
 按此查看[过往更新](往期更新.md)
 
@@ -82,10 +83,6 @@
 - 关于**怎么润**，请参考全球润友自身的经历 [润学实例](润学实例)：
 
 最后，茶余饭后，博君一笑，可以访问 [咱们赢麻了知名言论合集](张维为陈平曹丰泽等知名言论收集), [外交部赢化论精选](外交部发言精选)。
-
-## 鸣谢
-
-[![contributors](https://opencollective.com/run/contributors.svg?width=890)](https://github.com/The-Run-Philosophy-Organization/run/graphs/contributors)
 
 ## Star 历史
 
