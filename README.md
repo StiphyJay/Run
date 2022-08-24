@@ -13,8 +13,6 @@
 迁徙自由，是**基本人权**；
 当然了，讨论真理的言论自由也是**基本人权**之一。
 
-[![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
-[![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 
@@ -62,12 +60,16 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-7-17**）：
+近期新增（**Week of 2022-8-19**）：
 
+- [女性润学](https://github.com/FemRun/FemRun)
+- [润女精神港湾](https://github.com/FemRun/FeministCN)
+- [更新润学官方discord地址](https://discord.com/invite/2eCgMZZU)
+- [全国各省市烂尾楼停贷通知汇总](经济问题相关/全国各省市烂尾楼停贷通知汇总.md)
+- [郑州710事件](内宣/网络民议/郑州710事件.md)
+- [冷门美签简介](润学方法论/各国选择/美洲/美国/冷门美签简介.md)
+- [我们到底为抗疫花了多少钱](经济问题相关/我们到底为抗疫花了多少钱.md)
 - [硕博生困于烂尾楼](经济问题相关/硕博生困于烂尾楼.md)
-- [空想管理学](哲学概念/空想管理学.md)
-- [张爱玲逃港记](润学感悟/张爱玲逃港记.md)
-- [纪念张爱玲诞辰100周年](润学感悟/纪念张爱玲诞辰100周年.md)
 
 按此查看[过往更新](往期更新.md)
 
